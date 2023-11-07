@@ -1,4 +1,4 @@
-# Diversity Tool
+# Diversity Computation Tool
 ## Compile and Execute 
 ### main program
 ```
